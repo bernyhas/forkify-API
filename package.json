@@ -10,13 +10,12 @@
   "author": "Hans Bernadin",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.1",
-    "parcel": "^2.0.1",
+    "parcel": "^2.0.0-beta.1",
     "sass": "^1.26.10"
   },
   "dependencies": {
-    "core-js": "^3.19.1",
+    "core-js": "^3.6.5",
     "fractional": "^1.0.0",
-    "regenerator-runtime": "^0.13.9"
+    "regenerator-runtime": "^0.13.7"
   }
 }
