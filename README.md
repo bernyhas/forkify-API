@@ -2,7 +2,7 @@
 
 Recipe application with custom recipe uploads.
 
-click the link below and from there you can search any recipe as below
+click the link below and from there you can search any recipe as below word key
 
 carrot
 broccoli
